@@ -15,7 +15,7 @@ namespace Assets
 {
     public class Animal
     {
-        // static fields
+        
         public string name;
         public float maxLifespan;
         public float scaleStartSize;
@@ -26,7 +26,7 @@ namespace Assets
         public int yBorn;
         public int seasonBorn;
 
-        //non static fields
+        
         public float size;
         public int age;
         public int foodNeeded;
